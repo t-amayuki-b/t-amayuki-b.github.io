@@ -11,8 +11,8 @@
 
 const { Player } = TextAliveApp;
 
-const songurl = "http://www.youtube.com/watch?v=ygY2qObZv24";
-//const songUrl = "https://www.nicovideo.jp/watch/sm35791694";
+//const songurl = "http://www.youtube.com/watch?v=ygY2qObZv24";
+const songUrl = "https://www.nicovideo.jp/watch/sm35791694";
 
 const appAuthor = "Amayuki";
 const appName = "YY Sample";
