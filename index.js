@@ -12,10 +12,10 @@
 const { Player } = TextAliveApp;
 
 //const songurl = "http://www.youtube.com/watch?v=ygY2qObZv24";
-const songUrl = "https://www.nicovideo.jp/watch/sm35791694"
+const songUrl = "https://www.nicovideo.jp/watch/sm35791694";
 
-const appAuthor = "Taisuke Fukuno";
-const appName = "Baisc Sample";
+const appAuthor = "Amayuki";
+const appName = "YY Sample";
 
 const animateWord = (now, unit) => {
   if (unit.contains(now)) {
