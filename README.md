@@ -4,10 +4,10 @@ API チュートリアル「1. 開発の始め方」のサンプルコードで�
 発声中の歌詞を単語単位で表示します。
 また、このアプリが TextAlive ホストと接続されていなければ再生コントロールを表示します。
 
-TextAlive ホストと接続された状態をテストするには [TextAlive App Debugger](https://developer.textalive.jp/app/run/?ta_app_url=https%3A%2F%2Ftaisukef.github.io%2Ftextalive-app-basic%2F&ta_song_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DygY2qObZv24) のページにアクセスしてください。
+TextAlive ホストと接続された状態をテストするには [TextAlive App Debugger](https://developer.textalive.jp/app/run/?ta_app_url=https%3A%2F%2Ft-amayuki-b.github.io%2F&ta_song_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DygY2qObZv24) のページにアクセスしてください。
 
 - API チュートリアル「1. 開発の始め方」: https://developer.textalive.jp/app/
-- サンプルコードのデモページ: https://taisukef.github.io/textalive-app-basic/
+- サンプルコードのデモページ: https://t-amayuki-b.github.io/
 
 **English version available in [README.en.md](./README.en.md).**
 
@@ -15,8 +15,8 @@ TextAlive ホストと接続された状態をテストするには [TextAlive A
 
 TextAlive App API で開発されたWebアプリケーションは、（特定の楽曲向けに作り込んでいない限り）URLのクエリパラメタで `ta_song_url={楽曲のURL}` を指定すると異なる楽曲で演出を試せます。
 
-- [ブレス・ユア・ブレス by 和田たけあき feat. 初音ミク](https://taisukef.github.io/textalive-app-basic/?ta_song_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da-Nf3QUFkOU)
-- [グリーンライツ・セレナーデ by Omoi feat. 初音ミク](https://taisukef.github.io/textalive-app-basic/?ta_song_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXSLhsjepelI)
+- [ブレス・ユア・ブレス by 和田たけあき feat. 初音ミク](https://t-amayuki-b.github.io/?ta_song_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da-Nf3QUFkOU)
+- [グリーンライツ・セレナーデ by Omoi feat. 初音ミク](https://t-amayuki-b.github.io/?ta_song_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXSLhsjepelI)
 
 ## TextAlive App API
 
