@@ -28,7 +28,7 @@ const player = new Player({ app: { appAuthor, appName }, mediaElement: media });
 player.addListener({
   onAppReady(app) {
     if (!app.managed) {
-      control.style.display = "block";
+      control.style.display = "white";
       const p = player;
       document.querySelectorAll(".play").forEach((btn) => btn.onclick = () => p.video && p.requestPlay());
       jump.onclick = () => p.video && p.requestMediaSeek(p.video.firstChar.startTime);
